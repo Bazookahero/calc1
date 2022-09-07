@@ -86,6 +86,9 @@ namespace calculator
                     case 9:
                         break;
                 }
+                Console.WriteLine("press any key to continue");
+                Console.ReadKey(true);
+                Console.Clear();
 
 
                 {
